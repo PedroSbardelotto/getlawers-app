@@ -6,7 +6,7 @@ const router = Router();
 router.post('/', async (req: Request, res: Response): Promise<void> => {
   try {
     const { 
-      email, password, 
+      email, password,
       tipo_pessoa, nome_razao_social, documento, telefone, 
       cep, rua, numero, complemento, bairro, cidade, estado 
     } = req.body;
