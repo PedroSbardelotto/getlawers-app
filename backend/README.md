@@ -5,6 +5,7 @@
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </div>
 
 <br/>
@@ -14,6 +15,15 @@
 O **GetLawyers** é uma plataforma inovadora de *matchmaking* jurídico que conecta clientes a advogados especialistas através de um modelo de alocação sob demanda (semelhante ao Uber). 
 
 O sistema elimina o atrito da busca manual por profissionais, permitindo que o cliente relate seu problema, escolha um horário e seja automaticamente alocado a um especialista validado na área. Todo o atendimento ocorre via sala virtual integrada, com geração automatizada de relatórios e transcrição em texto (Speech-to-Text) pós-consulta para garantia jurídica de ambas as partes.
+
+---
+
+## 🎨 Design e Prototipagem
+
+Toda a interface de usuário (UI) e experiência do usuário (UX) do GetLawyers foi desenhada pensando em um design minimalista, transmitindo confiança e seriedade jurídica. 
+
+Você pode acessar o protótipo navegável e as especificações de componentes diretamente no nosso Figma:
+👉 **[Acessar o Design no Figma](https://www.figma.com/design/TpCIBI13GBu5hKV7PF3E1q/Getlawyers-UX-UI?node-id=0-1&m=dev&t=qP4jSWGtV9azivDK-1)**
 
 ---
 
@@ -68,5 +78,5 @@ O banco de dados relacional foi modelado para garantir integridade e performance
 
 ### 1. Clonando o repositório
 ```bash
-git clone [https://github.com/PedroSbardelotto/getlawers-app]
+git clone [https://github.com/seu-usuario/getlawyers.git](https://github.com/seu-usuario/getlawyers.git)
 cd getlawyers
